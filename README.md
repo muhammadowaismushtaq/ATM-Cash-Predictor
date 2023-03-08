@@ -14,4 +14,4 @@ version XGB Boost to train and test our models.
 <b> The Project is Contributed by: </b>
 * [Muhammad Owais Mushtaq](https://www.linkedin.com/in/muhammadowaismushtaq)
 * [Muhammad Usman Umar](https://www.linkedin.com/in/muhammad-usman-umar-3b5216216/)
-* [Shaharyar Amjad]https://www.linkedin.com/in/shaharyar-amjad-927100180/)
+* [Shaharyar Amjad](https://www.linkedin.com/in/shaharyar-amjad-927100180/)
