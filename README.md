@@ -1,5 +1,5 @@
 # ATM Cash Predictor
-> Creation Date: December, 2021
+> Creation Date: June, 2021
 ## Description
 ATM should not be filled with large amount of cash which may bring low transport/logistic cost
 but high freezing and high insurance costs. The purpose of the project entitled as “ATM Cash
